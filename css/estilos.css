@@ -46,3 +46,9 @@ nav .nav-right-section .menu-icon{
     height: 25px;
 
 }
+nav .nav-right-section img{
+
+    border-radius: 50px;
+    margin-left: 10px;
+    
+}
